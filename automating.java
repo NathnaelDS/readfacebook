@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 public class automating {
-    static String mypass = "IaMZB3l0v3d!";
+    static String mypass = "asas";
     public static void main(String[] args) {
         method4();
 
